@@ -1,0 +1,4 @@
+{"file":"testsheet.png","frames":{
+"bg_background":{"x":1,"y":1,"w":1280,"h":720,"offX":0,"offY":2,"sourceW":1282,"sourceH":722},
+"start_button_down":{"x":1,"y":723,"w":208,"h":209,"offX":0,"offY":0,"sourceW":208,"sourceH":209},
+"start_button_up":{"x":211,"y":723,"w":208,"h":209,"offX":0,"offY":1,"sourceW":208,"sourceH":211}}}
